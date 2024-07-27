@@ -5,9 +5,9 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
-- 🔭 I’m currently working on [Online Education Platform](https://github.com/sghazaan/StudentPanel/tree/b7b2762adbe1d29a6c8af771a58f7e00fb20c915)
+- 🔭 I’m currently working on iOS App using Unity Engine where chatting meets a mini metaverse
 
-- 🌱 I’m currently improving **React part of MERN Stack**
+- 🌱 I’m currently improving **C# Delegates used in Unity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sghazaan](https://github.com/sghazaan)
 

@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shahrukhghazaan@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1Hfg7_1PMtaKzfJyJO-c4dQpFtkWS1Ao-/view?usp=share_link](https://drive.google.com/file/d/1Hfg7_1PMtaKzfJyJO-c4dQpFtkWS1Ao-/view?usp=share_link)](https://drive.google.com/file/d/1wbt2O1xTVeEACdCN7aL0WzKVyN02sRLS/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1wbt2O1xTVeEACdCN7aL0WzKVyN02sRLS/view?usp=sharing
 
 - ⚡ Fun fact **I am weirdly funny**
 
